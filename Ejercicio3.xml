@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE productos SYSTEM "Ejercicio3.dtd">
+<productos>
+    <producto>
+        <raton>
+            <codigo>COD20</codigo>
+            <nombre>Mouse RGB</nombre>
+            <descripcion>Mouse gamer rgb</descripcion>
+        </raton>
+    </producto>
+    <producto>
+        <teclado>
+            <codigo>COD23</codigo>
+            <nombre>Teclado inalambrico</nombre>
+        </teclado>
+    </producto>
+    <producto>
+        <monitor>
+            <codigo>COD21</codigo>
+        </monitor>
+    </producto>
+</productos>
